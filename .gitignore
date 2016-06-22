@@ -1,0 +1,5 @@
+.idea
+node_modules
+web/jspm_packages
+web/build.js
+web/build.js.map
